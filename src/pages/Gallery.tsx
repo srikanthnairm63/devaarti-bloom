@@ -8,7 +8,7 @@ import logo from "../assets/devaarti-jasmine.jpeg";
 import roseImg from "@/assets/product-rose.jpeg";
 import jasmineImg from "@/assets/product-jasmine.jpeg";
 import lavenderImg from "@/assets/product-lavender.jpeg";
-import pineappleImg from "@/assets/product-pineapple.jpeg";
+import pineappleImg from "@/assets/product-logo.jpeg";
 import extraImg from "@/assets/product-extra.jpeg";
 
 const galleryImages = [
