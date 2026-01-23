@@ -5,7 +5,7 @@ import { Badge } from "@/components/ui/badge";
 import roseImg from "@/assets/product-rose.jpeg";
 import jasmineImg from "@/assets/product-jasmine.jpeg";
 import lavenderImg from "@/assets/product-lavender.jpeg";
-import pineappleImg from "@/assets/product-pineapple.jpeg";
+import pineappleImg from "@/assets/product-jasmine.jpeg";
 
 // Map image URLs to actual imports
 const imageMap: Record<string, string> = {
