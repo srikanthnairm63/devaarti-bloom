@@ -5,7 +5,7 @@ import { Card, CardContent } from "@/components/ui/card";
 import Layout from "@/components/layout/Layout";
 import ProductCard from "@/components/products/ProductCard";
 import { useProducts } from "@/hooks/useProducts";
-import logo from "@/assets/devaarti-logo.jpeg";
+import logo from "@/assets/devaarti-jasmine.jpeg";
 
 const Index = () => {
   const { data: products, isLoading } = useProducts();
