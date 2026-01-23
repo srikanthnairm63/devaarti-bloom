@@ -1,7 +1,7 @@
 import { Heart, Award, Leaf, Users } from "lucide-react";
 import { Card, CardContent } from "@/components/ui/card";
 import Layout from "@/components/layout/Layout";
-import logo from "@/assets/devaarti-logo.jpeg";
+import logo from "../assets/devaarti-jasmine.jpeg";
 
 const About = () => {
   const values = [
