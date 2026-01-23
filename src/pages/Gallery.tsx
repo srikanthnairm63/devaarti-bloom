@@ -4,7 +4,7 @@ import Layout from "@/components/layout/Layout";
 import { Dialog, DialogContent, DialogTitle } from "@/components/ui/dialog";
 
 // Import all images
-import logo from "@/assets/devaarti-logo.jpeg";
+import logo from "../assets/devaarti-jasmine.jpeg";
 import roseImg from "@/assets/product-rose.jpeg";
 import jasmineImg from "@/assets/product-jasmine.jpeg";
 import lavenderImg from "@/assets/product-lavender.jpeg";
